@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Tema1.AppTest" tests="62" skipped="0" failures="0" errors="0" timestamp="2024-11-29T17:47:28" hostname="DESKTOP-6FQL1IT" time="0.141">
+  <properties/>
+  <testcase name="test10()" classname="Tema1.AppTest" time="0.021"/>
+  <testcase name="test11()" classname="Tema1.AppTest" time="0.001"/>
+  <testcase name="test12()" classname="Tema1.AppTest" time="0.002"/>
+  <testcase name="test13()" classname="Tema1.AppTest" time="0.007"/>
+  <testcase name="test14()" classname="Tema1.AppTest" time="0.002"/>
+  <testcase name="test15()" classname="Tema1.AppTest" time="0.001"/>
+  <testcase name="test16()" classname="Tema1.AppTest" time="0.004"/>
+  <testcase name="test17()" classname="Tema1.AppTest" time="0.002"/>
+  <testcase name="test18()" classname="Tema1.AppTest" time="0.002"/>
+  <testcase name="test19()" classname="Tema1.AppTest" time="0.002"/>
+  <testcase name="test20()" classname="Tema1.AppTest" time="0.001"/>
+  <testcase name="test21()" classname="Tema1.AppTest" time="0.001"/>
+  <testcase name="test22()" classname="Tema1.AppTest" time="0.001"/>
+  <testcase name="test23()" classname="Tema1.AppTest" time="0.001"/>
+  <testcase name="test24()" classname="Tema1.AppTest" time="0.002"/>
+  <testcase name="test25()" classname="Tema1.AppTest" time="0.002"/>
+  <testcase name="test26()" classname="Tema1.AppTest" time="0.001"/>
+  <testcase name="test27()" classname="Tema1.AppTest" time="0.008"/>
+  <testcase name="test28()" classname="Tema1.AppTest" time="0.001"/>
+  <testcase name="test29()" classname="Tema1.AppTest" time="0.001"/>
+  <testcase name="test30()" classname="Tema1.AppTest" time="0.001"/>
+  <testcase name="test31()" classname="Tema1.AppTest" time="0.001"/>
+  <testcase name="test32()" classname="Tema1.AppTest" time="0.0"/>
+  <testcase name="test33()" classname="Tema1.AppTest" time="0.001"/>
+  <testcase name="test34()" classname="Tema1.AppTest" time="0.001"/>
+  <testcase name="test35()" classname="Tema1.AppTest" time="0.004"/>
+  <testcase name="test36()" classname="Tema1.AppTest" time="0.002"/>
+  <testcase name="test37()" classname="Tema1.AppTest" time="0.004"/>
+  <testcase name="test38()" classname="Tema1.AppTest" time="0.002"/>
+  <testcase name="test39()" classname="Tema1.AppTest" time="0.002"/>
+  <testcase name="test40()" classname="Tema1.AppTest" time="0.001"/>
+  <testcase name="test41()" classname="Tema1.AppTest" time="0.002"/>
+  <testcase name="test42()" classname="Tema1.AppTest" time="0.002"/>
+  <testcase name="test43()" classname="Tema1.AppTest" time="0.001"/>
+  <testcase name="test44()" classname="Tema1.AppTest" time="0.003"/>
+  <testcase name="test45()" classname="Tema1.AppTest" time="0.001"/>
+  <testcase name="test46()" classname="Tema1.AppTest" time="0.002"/>
+  <testcase name="test47()" classname="Tema1.AppTest" time="0.001"/>
+  <testcase name="test48()" classname="Tema1.AppTest" time="0.001"/>
+  <testcase name="test49()" classname="Tema1.AppTest" time="0.0"/>
+  <testcase name="test50()" classname="Tema1.AppTest" time="0.0"/>
+  <testcase name="test51()" classname="Tema1.AppTest" time="0.005"/>
+  <testcase name="test52()" classname="Tema1.AppTest" time="0.002"/>
+  <testcase name="test53()" classname="Tema1.AppTest" time="0.003"/>
+  <testcase name="test54()" classname="Tema1.AppTest" time="0.001"/>
+  <testcase name="test55()" classname="Tema1.AppTest" time="0.001"/>
+  <testcase name="test56()" classname="Tema1.AppTest" time="0.001"/>
+  <testcase name="test57()" classname="Tema1.AppTest" time="0.001"/>
+  <testcase name="test58()" classname="Tema1.AppTest" time="0.001"/>
+  <testcase name="test59()" classname="Tema1.AppTest" time="0.001"/>
+  <testcase name="test60()" classname="Tema1.AppTest" time="0.001"/>
+  <testcase name="test61()" classname="Tema1.AppTest" time="0.0"/>
+  <testcase name="test0()" classname="Tema1.AppTest" time="0.0"/>
+  <testcase name="test1()" classname="Tema1.AppTest" time="0.001"/>
+  <testcase name="test2()" classname="Tema1.AppTest" time="0.001"/>
+  <testcase name="test3()" classname="Tema1.AppTest" time="0.001"/>
+  <testcase name="test4()" classname="Tema1.AppTest" time="0.0"/>
+  <testcase name="test5()" classname="Tema1.AppTest" time="0.001"/>
+  <testcase name="test6()" classname="Tema1.AppTest" time="0.001"/>
+  <testcase name="test7()" classname="Tema1.AppTest" time="0.0"/>
+  <testcase name="test8()" classname="Tema1.AppTest" time="0.001"/>
+  <testcase name="test9()" classname="Tema1.AppTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
